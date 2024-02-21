@@ -16,6 +16,7 @@ body, .snake {
   display: grid;
   grid-template-columns: repeat(20, 20px);
   grid-template-rows: repeat(20, 20px);
+  margin: 5px;
 }
 
 .game-border-1 {
@@ -43,7 +44,7 @@ body, .snake {
   width: 300px;
   text-align: center;
   text-transform: capitalize;
-  padding: 30px;
+  padding: 50px;
   margin: 0 ;
 }
 
