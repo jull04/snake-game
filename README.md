@@ -1,5 +1,3 @@
-# snake-game
+# Snake-game
 
-Игра змейка
-
-https://jull04.github.io/snake-game/
+Link: https://jull04.github.io/snake-game/
